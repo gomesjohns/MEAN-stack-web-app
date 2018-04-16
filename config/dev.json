@@ -1,0 +1,4 @@
+{
+    "port":"3000",
+    "dburl":"mongodb://admin:password@ds147842.mlab.com:47842/comp308_assignment3"
+}
